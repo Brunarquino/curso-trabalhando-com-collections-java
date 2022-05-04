@@ -43,7 +43,7 @@ java.util.List
 ### Coleções com Singularidade: Set
 
 [Exemplos](https://github.com/Brunarquino/curso-trabalhando-com-collections-java/tree/master/src/dio/collection/set)
-[Exercicios Propostos]()
+[Exercicios Propostos](https://github.com/Brunarquino/curso-trabalhando-com-collections-java/tree/master/src/dio/collection/set/execiciosPropostos)
 
 java.util.Set
 
@@ -63,4 +63,10 @@ java.util.Map
 
 ### Stream API
 
-[Exemplos]()
+- Classe Anonima
+- Function Interface
+- Lambda
+- Method Reference
+- Stream API
+
+[Exemplos](https://github.com/Brunarquino/curso-trabalhando-com-collections-java/tree/master/src/dio/collection/streamApi)
