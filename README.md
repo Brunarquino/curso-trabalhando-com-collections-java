@@ -28,6 +28,9 @@ Interfaces e Implementações que o curso abordou
 
 ### Coleções com iterações ordenadas: List
 
+[Exemplos](https://github.com/Brunarquino/curso-trabalhando-com-collections-java/tree/master/src/dio/collection/list)
+[Exercicios Propostos](https://github.com/Brunarquino/curso-trabalhando-com-collections-java/tree/master/src/dio/collection/list/exerciciosPropostos)
+
 java.util.List
 
 - Permite elementos duplicados
@@ -39,12 +42,18 @@ java.util.List
 
 ### Coleções com Singularidade: Set
 
+[Exemplos](https://github.com/Brunarquino/curso-trabalhando-com-collections-java/tree/master/src/dio/collection/set)
+[Exercicios Propostos]()
+
 java.util.Set
 
 - Não permite elementos duplicados
 - Não possui índice
 
 ### Coleções de Pares: Map
+
+[Exemplos](https://github.com/Brunarquino/curso-trabalhando-com-collections-java/tree/master/src/dio/collection/map)
+[Exercicios Propostos](https://github.com/Brunarquino/curso-trabalhando-com-collections-java/tree/master/src/dio/collection/map/execiciosPropostos)
 
 java.util.Map
 
@@ -53,3 +62,5 @@ java.util.Map
 - não é extensão da interface collection porém está dentro do framework collections
 
 ### Stream API
+
+[Exemplos]()
